@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "303907978899",
+    "project_id": "clothesappfinal",
+    "storage_bucket": "clothesappfinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303907978899:android:c8de5fae042f30ea9e5766",
+        "android_client_info": {
+          "package_name": "com.example.flutter_final_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303907978899-j4iogspab6upgokfc5hf1h3480vao8nh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFbxDco0hS1zfMSenGtHYywpW12nmyaCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303907978899-j4iogspab6upgokfc5hf1h3480vao8nh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
